@@ -21,6 +21,12 @@ function Navbar() {
         <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav mR-auto">
             <li class="nav-item active">
+              <a class="nav-link" href="/language">
+                Language
+              </a>
+            </li>
+
+            <li class="nav-item active">
               <a class="nav-link" href="/register">
                 Register
               </a>
